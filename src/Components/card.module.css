@@ -1,0 +1,13 @@
+.header {
+  position: relative;
+  background-color: rgb(191, 230, 232);
+  box-shadow: 10px 10px black;
+  border-radius: 10px;
+  height: 450px;
+  width: 800px;
+  margin-left: 230px;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,30 @@
+.main_heading {
+  position: absolute;
+  margin: 80px 60px 20px 100px;
+  background-color: rgb(200, 227, 222);
+  box-shadow: 10px 10px black;
+  height: 400px;
+  width: 80%;
+  border-radius: 10px;
+}
+
+.heading {
+  position: relative;
+  height: 40px;
+  width: 100%;
+  padding-left: 100px;
+  padding-top: 8px;
+  background-color: rgb(222, 230, 200);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  border-radius: 10px;
+}
+.question_number {
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid #000;
+  font-size: 18px;
+}

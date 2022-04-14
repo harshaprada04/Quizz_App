@@ -1,0 +1,5 @@
+.table_div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 100px;
+}
